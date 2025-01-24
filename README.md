@@ -1,2 +1,2 @@
-# starter-project
-starter project for react
+# personal portfolio website
+personal portfolio website with nextjs
